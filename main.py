@@ -6,7 +6,7 @@ mood=input().lower()
 if mood=="good":
     print("I am glat to hear that!")
 elif(mood =="bad"):
-    print("I'm soory to hear that. Hope things get better.")
+    print("I'm sorry to hear that. Hope things get better.")
 else:
     print("I see. Sometimes its hard to put feelings into words.")
 
